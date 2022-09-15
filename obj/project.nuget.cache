@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+IzLE6kvd7n6Y3yIv9HfBpBGZxZLfZzT2yLBd+MRHp3Son5O4nABEc94btzJ8wDIkaP+fpP0trpAXUCbySgBfg==",
+  "dgSpecHash": "k2kijmKV7IjazzbNFGWANEyEMkACwCAR+hcXW/JMt/KyqH1DUXC0J/1LIc/nCb61Wd4S0HZOgFvtYlNuRw9dHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lisbeth Jimenez\\Documents\\fp-tareas\\Tarea6\\Tarea6.csproj",
+  "projectFilePath": "C:\\Users\\Lisbeth Jimenez\\OneDrive\\Documentos\\fp-tareas\\covid_project\\Tarea6.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lisbeth Jimenez\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Lisbeth Jimenez\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.6\\microsoft.data.sqlite.core.6.0.6.nupkg.sha512",

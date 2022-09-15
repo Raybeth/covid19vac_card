@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lisbeth Jimenez\\Documents\\fp-tareas\\Tarea6\\Tarea6.csproj": {}
+    "C:\\Users\\Lisbeth Jimenez\\OneDrive\\Documentos\\fp-tareas\\covid_project\\Tarea6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lisbeth Jimenez\\Documents\\fp-tareas\\Tarea6\\Tarea6.csproj": {
+    "C:\\Users\\Lisbeth Jimenez\\OneDrive\\Documentos\\fp-tareas\\covid_project\\Tarea6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lisbeth Jimenez\\Documents\\fp-tareas\\Tarea6\\Tarea6.csproj",
+        "projectUniqueName": "C:\\Users\\Lisbeth Jimenez\\OneDrive\\Documentos\\fp-tareas\\covid_project\\Tarea6.csproj",
         "projectName": "Tarea6",
-        "projectPath": "C:\\Users\\Lisbeth Jimenez\\Documents\\fp-tareas\\Tarea6\\Tarea6.csproj",
+        "projectPath": "C:\\Users\\Lisbeth Jimenez\\OneDrive\\Documentos\\fp-tareas\\covid_project\\Tarea6.csproj",
         "packagesPath": "C:\\Users\\Lisbeth Jimenez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lisbeth Jimenez\\Documents\\fp-tareas\\Tarea6\\obj\\",
+        "outputPath": "C:\\Users\\Lisbeth Jimenez\\OneDrive\\Documentos\\fp-tareas\\covid_project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lisbeth Jimenez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Lisbeth Jimenez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
